@@ -57,7 +57,8 @@ OUTPUT:
 
 
 RESULT:
-This the output for the given program
+
+ This the output for the given program
 
 
 
