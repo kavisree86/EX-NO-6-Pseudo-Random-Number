@@ -46,8 +46,14 @@ int main()
     }
     return 0;
 }
+
+
 OUTPUT:
-<img width="382" alt="image" src="https://github.com/user-attachments/assets/ae236d3a-b1e6-41ed-a317-1ae410bb3062">
+
+
+  <img width="382" alt="image" src="https://github.com/user-attachments/assets/ae236d3a-b1e6-41ed-a317-1ae410bb3062">
+
+
 
 
 RESULT:
