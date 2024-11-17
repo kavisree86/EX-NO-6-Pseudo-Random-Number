@@ -18,10 +18,9 @@ Print the generated random number.
 
 Repeat until count random numbers are generated, then terminate the program.
 
-Program:
+## Program:
 
-NAME: KAVISREE
-REG NO: 212222047001
+
 
 #include <stdio.h>
 #include <stdlib.h>
